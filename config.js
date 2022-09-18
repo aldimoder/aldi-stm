@@ -22,10 +22,10 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285697175057','6285697175057','6285697175057']
-global.premium = ['6285697175057']
+global.owner = ['6281220721536','6281220721536','6281220721536']
+global.premium = ['6281220721536']
 global.packname = 'Di Buat Oleh'
-global.author = 'Bot War Wa 085697175057'
+global.author = 'Bot War Wa 081220721536'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
